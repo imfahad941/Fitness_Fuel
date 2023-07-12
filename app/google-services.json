@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "101207396229",
+    "project_id": "fitness-fuel-a653b",
+    "storage_bucket": "fitness-fuel-a653b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:101207396229:android:1dd51a5c18b92476f17eec",
+        "android_client_info": {
+          "package_name": "com.example.fitnessfuel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "101207396229-i24833h272lp63p44cbgd1ae4ie2mi4s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRgkyp5hl4XV45FGJJZcopvZXE4HIHP2I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "101207396229-i24833h272lp63p44cbgd1ae4ie2mi4s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
